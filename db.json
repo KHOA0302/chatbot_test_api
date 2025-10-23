@@ -1,0 +1,9 @@
+{
+  [{"variant_id": 1,
+  "variant_name": "sinanju",
+"price": 1000}, {"variant_id": 2,
+  "variant_name": "sazabi",
+"price": 2000}, {"variant_id": 3,
+  "variant_name": "zeong",
+"price": 3000}, ]
+}
