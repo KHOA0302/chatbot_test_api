@@ -1,5 +1,5 @@
 {
-  [{"variant_id": 1,
+  "product": [{"variant_id": 1,
   "variant_name": "sinanju",
 "price": 1000}, {"variant_id": 2,
   "variant_name": "sazabi",
